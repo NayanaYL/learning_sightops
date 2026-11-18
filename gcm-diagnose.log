@@ -1,0 +1,194 @@
+﻿Diagnose log at 2026-11-18T05:59:25Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.9.1+6760f0ef069c994aa2bb1d703fb374986ee82a3e
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+SystemDrive=C:
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+TMP=C:\Users\Dell\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\Dell\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\70789581cae28aa7\askpass-main.js
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Dell\bin;C:\Users\Dell\Desktop\StightOps Ai\learning\day1\venv\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\WSL\;C:\Users\Dell\AppData\Local\Microsoft\WindowsApps;C:\Users\Dell\AppData\Local\GitHubDesktop\bin;C:\Users\Dell\.local\bin;C:\Users\Dell\AppData\Local\Python\bin;C:\Users\Dell\AppData\Roaming\npm;C:\Users\Dell\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Dell\AppData\Local\Programs\DockerDesktop\resources\bin;C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;c:\Users\Dell\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\scripts\noConfigScripts;c:\Users\Dell\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim
+SynaProgDir=Synaptics\SynTP
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-4980357c84-sock
+PROCESSOR_REVISION=4e03
+TEMP=C:\Users\Dell\AppData\Local\Temp
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+LOGONSERVER=\\DESKTOP-MCVNJLM
+TERM=xterm-256color
+PYDEVD_DISABLE_FILE_VALIDATION=1
+USERNAME=Dell
+SystemRoot=C:\Windows
+VSCODE_DEBUGPY_ADAPTER_ENDPOINTS=c:\Users\Dell\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\.noConfigDebugAdapterEndpoints\endpoint-956b1a85c4a67ee4.txt
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_8420_IWDJVARIEOIZETUK
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+PLINK_PROTOCOL=ssh
+_OLD_VIRTUAL_PATH=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\WSL\;C:\Users\Dell\AppData\Local\Microsoft\WindowsApps;C:\Users\Dell\AppData\Local\GitHubDesktop\bin;C:\Users\Dell\.local\bin;C:\Users\Dell\AppData\Local\Python\bin;C:\Users\Dell\AppData\Roaming\npm;C:\Users\Dell\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Dell\AppData\Local\Programs\DockerDesktop\resources\bin;C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;c:\Users\Dell\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\scripts\noConfigScripts;c:\Users\Dell\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim
+OneDrive=C:\Users\Dell\OneDrive
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-MCVNJLM
+CommonProgramFiles=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+ProgramData=C:\ProgramData
+LANG=en_US.UTF-8
+GIT_ASKPASS=c:\Users\Dell\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\70789581cae28aa7\askpass.sh
+HOMEPATH=\Users\Dell
+COMPUTERNAME=DESKTOP-MCVNJLM
+PYTHONSTARTUP=c:\Users\Dell\AppData\Roaming\Code\User\workspaceStorage\32e1c387581a1c8903e897ac0ddb981d\ms-python.python\pythonrc.py
+BUNDLED_DEBUGPY_PATH=c:\Users\Dell\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy
+VSCODE_INJECTION=1
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+COPILOT_DEBUG_NONCE=557437346ed96c6c41d635c7b8604e9e
+SESSIONNAME=Console
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+windir=C:\Windows
+GIT_TRACE2_PARENT_SID=b38aeac0-9209-4fee-9bc7-9d9be6c0913b
+VSCODE_GIT_ASKPASS_NODE=C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\Code.exe
+NUMBER_OF_PROCESSORS=4
+OS=Windows_NT
+VIRTUAL_ENV=C:\Users\Dell\Desktop\StightOps Ai\learning\day1\venv
+ProgramFiles=C:\Program Files
+ComSpec=C:\Windows\system32\cmd.exe
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+HOME=C:\Users\Dell
+PSModulePath=C:\Users\Dell\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+TMPDIR=C:\Users\Dell\AppData\Local\Temp
+VIRTUAL_ENV_PROMPT=venv
+APPDATA=C:\Users\Dell\AppData\Roaming
+USERDOMAIN=DESKTOP-MCVNJLM
+PROCESSOR_LEVEL=6
+USERPROFILE=C:\Users\Dell
+LOCALAPPDATA=C:\Users\Dell\AppData\Local
+PSExecutionPolicyPreference=RemoteSigned
+TERM_PROGRAM_VERSION=1.146.0
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+COLORTERM=truecolor
+PUBLIC=C:\Users\Public
+TERM_PROGRAM=vscode
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Dell\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Dell\AppData\Local\Temp\638a4fdeb9eb19700ef782b5'... OK
+Reading from temporary file 'C:\Users\Dell\AppData\Local\Temp\638a4fdeb9eb19700ef782b5'... OK
+Deleting temporary file 'C:\Users\Dell\AppData\Local\Temp\638a4fdeb9eb19700ef782b5'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Dell
+UserDataDirectoryPath: C:\Users\Dell\.gcm
+GetCurrentDirectory(): C:\Users\Dell\Desktop\StightOps Ai\learning\day1
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:55487/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.55.0.windows.5'
+Locating current repository...Git repository at 'C:/Users/Dell/Desktop/StightOps Ai/learning/day1/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Dell/.gitconfig	user.email=nayanamurthy2004@gmail.com
+file:C:/Users/Dell/.gitconfig	user.name=NayanaYL
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/nayanabharadwaj2004-prog/learning_sightopsai.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	user.email=nayanabharadwaj2004@gmail.com
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Dell\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Dell\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
